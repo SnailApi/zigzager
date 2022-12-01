@@ -1,0 +1,11 @@
+{
+  "name": "zigzag_swap",
+  "version": "1.0.0",
+  "main": "zigzag.mjs",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "zksync": "^0.13.1"
+  }
+}
